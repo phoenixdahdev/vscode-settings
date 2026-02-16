@@ -1,0 +1,200 @@
+{
+
+  "files.associations": {
+
+    "*.css": "tailwindcss",
+
+    "*.scss": "tailwindcss",
+
+  },
+
+  "workbench.colorTheme": "GitHub Dark",
+
+  "[typescript]": {
+
+    "editor.defaultFormatter": "vscode.typescript-language-features",
+
+  },
+
+  "terminal.integrated.env.windows": {},
+
+  "console-ninja.featureSet": "Community",
+
+  "[typescriptreact]": {
+
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+
+  },
+
+  "files.autoSaveWhenNoErrors": true,
+
+  "files.autoSaveWorkspaceFilesOnly": true,
+
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+
+  "editor.formatOnPaste": true,
+
+  "editor.formatOnSave": true,
+
+  "editor.formatOnType": true,
+
+  "git.enableSmartCommit": true,
+
+  "git.confirmSync": false,
+
+  "files.autoSave": "afterDelay",
+
+  "terminal.integrated.defaultProfile.windows": "Git Bash",
+
+  "scss.lint.validProperties": ["tailwind", "@tailwind"],
+
+  "material-icon-theme.files.associations": {},
+
+  "explorer.confirmDelete": false,
+
+  "[prisma]": {
+
+    "editor.defaultFormatter": "Prisma.prisma",
+
+  },
+
+  "notebook.formatOnCellExecution": true,
+
+  "git.autofetch": true,
+
+  "javascript.updateImportsOnFileMove.enabled": "always",
+
+  "terminal.integrated.env.linux": {},
+
+  "git.openRepositoryInParentFolders": "always",
+
+  "workbench.startupEditor": "none",
+
+  "explorer.confirmDragAndDrop": false,
+
+  "typescript.updateImportsOnFileMove.enabled": "always",
+
+  "[python]": {
+
+    "editor.defaultFormatter": "ms-python.autopep8",
+
+  },
+
+  "explorer.compactFolders": false,
+
+  "redhat.telemetry.enabled": true,
+
+  "scm.showIncomingChanges": "always",
+
+  "githubPullRequests.pullBranch": "never",
+
+  "inlineChat.finishOnType": true,
+
+  "diffEditor.renderSideBySide": false,
+
+  "[html]": {
+
+    "editor.defaultFormatter": "vscode.html-language-features",
+
+  },
+
+  "security.workspace.trust.untrustedFiles": "open",
+
+  "[json]": {
+
+    "editor.defaultFormatter": "vscode.json-language-features",
+
+  },
+
+  "extensions.ignoreRecommendations": true,
+
+  "liveServer.settings.donotShowInfoMsg": true,
+
+  "chat.instructionsFilesLocations": {
+
+    ".github/instructions": true,
+
+    "/tmp/postman-http-request-post-response.instructions.md": true,
+
+    "/tmp/postman-http-request-pre-request.instructions.md": true,
+
+    "/tmp/postman-collections-post-response.instructions.md": true,
+
+    "/tmp/postman-collections-pre-request.instructions.md": true,
+
+    "/tmp/postman-folder-post-response.instructions.md": true,
+
+    "/tmp/postman-folder-pre-request.instructions.md": true
+
+  },
+
+  "github.copilot.nextEditSuggestions.enabled": true,
+
+  "docker.extension.enableComposeLanguageServer": false,
+
+  "[dockercompose]": {
+
+    "editor.insertSpaces": true,
+
+    "editor.tabSize": 2,
+
+    "editor.autoIndent": "advanced",
+
+    "editor.quickSuggestions": {
+
+      "other": true,
+
+      "comments": false,
+
+      "strings": true,
+
+    },
+
+    "editor.defaultFormatter": "redhat.vscode-yaml",
+
+  },
+
+  "[github-actions-workflow]": {
+
+    "editor.defaultFormatter": "redhat.vscode-yaml",
+
+  },
+
+  "workbench.iconTheme": "vscode-icons",
+
+  "gitlens.ai.model": "vscode",
+
+  "gitlens.ai.vscode.model": "copilot:gpt-4.1",
+
+  "yaml.schemas": {
+
+    "file:///home/phoenix/.vscode/extensions/atlassian.atlascode-3.8.18/resources/schemas/pipelines-schema.json": "bitbucket-pipelines.yml",
+
+  },
+
+  "editor.fontLigatures": true,
+
+  "editor.fontFamily": "JetBrains Mono",
+
+  "settingsSync.ignoredSettings": ["editor.fontFamily"],
+
+  "gitlens.advanced.messages": {
+
+    "suppressGkRequestFailed500Warning": true,
+
+  },
+
+  "explorer.confirmPasteNative": false,
+
+  "vsicons.dontShowNewVersionMessage": true,
+
+  "claudeCode.preferredLocation": "panel",
+
+  "chat.editing.confirmEditRequestRetry": false,
+
+  "docker.extension.dockerEngineAvailabilityPrompt": false,
+
+  "diffEditor.ignoreTrimWhitespace": false,
+
+}
+
